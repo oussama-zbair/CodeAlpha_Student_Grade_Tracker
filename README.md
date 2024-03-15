@@ -3,7 +3,7 @@ The "Student-Grade-Tracker" project is a Java application designed to assist tea
 
 Here is a demo video demonstrating the Word Counter JavaFX App. Due to its size (6MB), I recommend downloading the video to view it:
 
-[Download Demo Video](https://github.com/oussama-zbair/CODSOFT_WORD-COUNTER/blob/main/demo/demo.mp4 "Download Demo Video")
+[Download Demo Video](https://github.com/oussama-zbair/")
 
 Instructions:
 
