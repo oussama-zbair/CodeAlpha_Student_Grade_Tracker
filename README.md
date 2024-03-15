@@ -1,1 +1,1 @@
-# CodeAlpha_Student_Grade_Tracker
+The "Student-Grade-Tracker" project is a Java application designed to assist teachers in managing and analyzing student grades. It provides functionalities to input student names and their corresponding grades, computes various statistics such as average, highest, and lowest grades, and displays the analysis results. This project aims to streamline the grading process and provide valuable insights into student performance
