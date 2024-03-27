@@ -1,4 +1,7 @@
-The "Student-Grade-Tracker" project is a Java application designed to assist teachers in managing and analyzing student grades. It provides functionalities to input student names and their corresponding grades, computes various statistics such as average, highest, and lowest grades, and displays the analysis results. This project aims to streamline the grading process and provide valuable insights into student performance
+A Simple Banking Application in Java is an ideal project for coding beginners. It covers fundamental concepts
+like the Scanner class for input, strings, loops, methods,and conditional statements. This project involves basic banking operations such as deposits, withdrawals,
+checking balances, and exiting the program.
+
 ## Demo
 
 Here is a demo video demonstrating the Word Counter JavaFX App. Due to its size (6MB), I recommend downloading the video to view it:
